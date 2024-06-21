@@ -9,7 +9,33 @@
 - [Meetings Details](#Meetings-Details)
 
 ## Requirements
-Components
+
+### Core Features
+1. **Upcoming Meetings**: Display upcoming courses with dynamic content.
+2. **Course Visits**: Track and display the number of visits for each course.
+3. **Dynamic Navigation**: Clicking on a course in the menu dynamically navigates to the course details page with appropriate tags.
+4. **Course Detail Page**: Display dynamic course names and details based on the selected course.
+
+### Sorting and Filtering
+- Implement sorting and filtering based on various categories for excellent user experience.
+- Implement pagination for easy navigation through courses.
+
+### Dashboard
+- **Home and Meetings Details**: Display a dashboard with home and meetings details.
+- **Reservation Management**: Manage reservations with active/inactive status.
+
+### User Management
+- **User Login**: After logging in, redirect to the dashboard.
+- **Retrieve User Name**: Display the user's name on the dashboard.
+- **Edit Profile**: Allow users to edit their profile information, with the option to keep the password unchanged.
+
+### Course Management
+- **Course Details**: Add a new column to represent the number of visits.
+- **Delete Category Check**: Display an alert before deleting a category. Ensure a category cannot be deleted if it contains courses (implemented through join relations in the database).
+
+### Best Practices
+- Implement component-based architecture for maintainability and scalability.
+- Clean and organized code.
 
 ## Admin Panel
 
