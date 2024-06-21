@@ -22,8 +22,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 <!DOCTYPE html>
 <html lang="en">
-<?php include_once('includes/head.php'); ?>
+<?php include_once('includes/head.php'); 
 
+include_once('includes/alert.php');
+
+?>
 <body class="nav-md">
 	<div class="container body">
 		<div class="main_container">
