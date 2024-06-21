@@ -2,15 +2,14 @@
 
 ## Table of Contents
 - [Requirements](#Requirements)
+- [Project Tools](#Project-Tools)
 - [Database Schema](#Database-Schema)
-- [Admin Panel](#Admin-Panel)
-- [Filteration & Pagination](#Filteration-&-Pagination)
-- [LandPage](#LandPage)
-- [Meetings Details](#Meetings-Details)
+- [Core Features](#Core-Features)
+- [SWE Best Practices](#SWE Best Practices)
 
 ## Requirements
 
-### Core Features
+
 1. **Upcoming Meetings**: Display upcoming courses with dynamic content.
 2. **Course Visits**: Track and display the number of visits for each course.
 3. **Dynamic Navigation**: Clicking on a course in the menu dynamically navigates to the course details page with appropriate tags.
@@ -37,6 +36,15 @@
 - Implement component-based architecture for maintainability and scalability.
 - Usage of Query Parameter and PHP functionalities.
 - Implementation of all CURD operations of database management.
+
+## Project Tools
+
+- Web browser (latest version recommended)
+- XMAPP (PHP, Apache server)
+- Database(MySQL Admin)
+- Frontend templet(HTML, CSS, JS)
+- CSS framework (e.g., Bootstrap)
+
 
 ## Admin Panel
 
