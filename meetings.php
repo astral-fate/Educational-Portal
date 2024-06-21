@@ -115,13 +115,15 @@ try {
                                             <div class="price">
                                                 <span><?php echo $Price ?>$</span>
                                             </div>
-                                            <a href="meeting-details.php?id=<?php echo $id ?>"><img src="admin/images/<?php echo $Image; ?>" alt="<?php echo $Title; ?>"></a>
+                                            <a href="meeting-details.php?id=<?php echo $id ?>">
+                                                <img src="admin/images/<?php echo $Image; ?>" 
+                                            <a href="meeting-details.php?id= alt="<?php echo $Title; ?>"></a>
                                         </div>
                                         <div class="down-content">
                                             <div class="date">
                                                 <h6><?php echo date('F', strtotime($Date)); ?> <span><?php echo date('d', strtotime($Date)); ?></span></h6>
                                             </div>
-                                            <a href="meeting-details.php?id=<?php echo $id ?><h4><?php echo $Title ?></h4></a>
+                                            <a href="meeting-details.php?id=<?php echo $id ?>"><h4><?php echo $Title; ?></h4></a>
                                             <p><?php echo $Content ?></p>
                                         </div>
                                     </div>
