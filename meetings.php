@@ -121,7 +121,7 @@ try {
                                             <div class="date">
                                                 <h6><?php echo date('F', strtotime($Date)); ?> <span><?php echo date('d', strtotime($Date)); ?></span></h6>
                                             </div>
-                                            <a href="meeting-details.php"><h4><?php echo $Title ?></h4></a>
+                                            <a href="meeting-details.php?id=<?php echo $id ?><h4><?php echo $Title ?></h4></a>
                                             <p><?php echo $Content ?></p>
                                         </div>
                                     </div>
