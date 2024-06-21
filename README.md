@@ -72,6 +72,7 @@ Edit Profile: Enables users to update their profile information, including an op
 - Deleting used category
 
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/218feba8-6b2b-4cf3-90cd-4796670e4d70)
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/c50f0a90-a958-4b19-b996-768480d9087b)
 
 
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/4dcfad97-760a-4de1-8ab3-89764c8c1d79)
@@ -84,7 +85,7 @@ Edit Profile: Enables users to update their profile information, including an op
 - Manage Meetings ✅
 
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/37bcc383-a3fa-4513-a203-5ea588e1c361)
-
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/ecc22d1b-bb57-4067-84d3-1daaab79f381)
 
 
 
