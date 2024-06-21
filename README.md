@@ -42,7 +42,7 @@
 - XMAPP (PHP, Apache server)
 - Database(MySQL Admin)
 - Frontend templet(HTML, CSS, JS)
-- CSS framework (e.g., Bootstrap)
+- CSS framework(Bootstrap)
 
 
 # Admin Panel
