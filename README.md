@@ -5,7 +5,7 @@
 - [Project Tools](#Project-Tools)
 - [Database Schema](#Database-Schema)
 - [Core Features](#Core-Features)
-- [SWE Best Practices](#SWE Best Practices)
+- [SWE Best Practices](#SWE-Best-Practices)
 
 ## Requirements
 
