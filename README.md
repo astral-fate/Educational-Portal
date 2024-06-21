@@ -4,6 +4,7 @@
 - [Requirements](#Requirements)
 - [Project Tools](#Project-Tools)
 - [Core Features](#Core-Features)
+- [Best Practices](#Best-Practices)
 
 
 ## Requirements
@@ -113,6 +114,10 @@ ALTER TABLE courses ADD COLUMN click_count INT DEFAULT 0;
 
 
 
+For better mainatince and redability, I have sepearted each section within the HTML as a coponents, and I included it in the main script using ```'include_once'```. This aims to reduce the number of lines.
 
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/7e5b9d2a-b8af-43a4-be0a-05354f61e5d2)
+
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/db325bdd-f608-47e2-8072-05c261184bb6)
 
 
