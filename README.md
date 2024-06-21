@@ -77,8 +77,10 @@ Edit Profile: Enables users to update their profile information, including an op
 
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/4dcfad97-760a-4de1-8ab3-89764c8c1d79)
 
-
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/c6d55187-3b86-4b0a-bea4-1bfbfd86b02e)
+
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/08881d78-0625-4774-934f-09f5b48c5fea)
+
 
 ## Meetings  managements
 - Add Meetings ✅
@@ -86,6 +88,17 @@ Edit Profile: Enables users to update their profile information, including an op
 
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/37bcc383-a3fa-4513-a203-5ea588e1c361)
 ![image](https://github.com/astral-fate/Project_r10/assets/63984422/ecc22d1b-bb57-4067-84d3-1daaab79f381)
+
+
+I have used query parameter to pass the id of the category and filter using it, so the url apperas as
+
+``` http://localhost/project_r10/index.php?category_id=8 ```
+
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/3be512a1-cbbc-47c9-b3ef-745d60a2946f)
+
+I have also updated the   SQL query to only retive 5 result in each page, making use of pagination.
+
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/27723201-d8e2-4fe6-874d-cb66abb9c674)
 
 
 
