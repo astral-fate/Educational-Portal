@@ -35,7 +35,8 @@
 
 ### Best Practices
 - Implement component-based architecture for maintainability and scalability.
-- Clean and organized code.
+- Usage of Query Parameter and PHP functionalities.
+- Implementation of all CURD operations of database management.
 
 ## Admin Panel
 
