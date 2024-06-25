@@ -110,6 +110,8 @@ I have also updated the   SQL query to only retive 5 result in each page, making
 ![image](https://github.com/astral-fate/Project_r10/assets/63984422/27723201-d8e2-4fe6-874d-cb66abb9c674)
 ![image](https://github.com/astral-fate/Project_r10/assets/63984422/5038db75-2452-4dff-9c31-8316b3d591a2)
 
+![image](https://github.com/astral-fate/Project_r10/assets/63984422/d4fa4b4f-5bf8-49d9-ba1a-7eb90c7ce08f)
+
 For the visit counters, I have modifed the SQL statment to increase the counter each time the title of the course is clicked.
 
 
