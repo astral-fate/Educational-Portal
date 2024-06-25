@@ -96,6 +96,7 @@ Edit Profile: Enables users to update their profile information, including an op
 - Showing categories
 - Navigate to categories
 - Course Details Page
+- Meetings page
 
 
 I have used query parameter to pass the id of the category and filter using it, so the url apperas as
