@@ -91,6 +91,12 @@ Edit Profile: Enables users to update their profile information, including an op
 ![image](https://github.com/astral-fate/UN-Women-Back-End-Scholarship/assets/63984422/37bcc383-a3fa-4513-a203-5ea588e1c361)
 ![image](https://github.com/astral-fate/Project_r10/assets/63984422/ecc22d1b-bb57-4067-84d3-1daaab79f381)
 
+## Education Home Page
+- Adding admin to the navigation bar
+- Showing categories
+- Navigate to categories
+- Course Details Page
+
 
 I have used query parameter to pass the id of the category and filter using it, so the url apperas as
 
